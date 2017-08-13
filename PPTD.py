@@ -1,7 +1,6 @@
 '''TODO: 
     need some potential update feature
     populate database and create practice run for presentation
-    clean this awful shit up
 '''
 from sqlalchemy import *
 from sqlalchemy.orm import *
